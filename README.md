@@ -38,11 +38,6 @@ This project is divided into several modules, each focusing on different aspects
 - Fine-tune the model for better performance.
 - Deploy the model and make it accessible for real-time predictions.
 
-
- 
- 
- 
-
 ### Usage
 
 1. **Launch Jupyter Notebook:**
