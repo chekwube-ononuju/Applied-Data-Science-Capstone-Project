@@ -41,10 +41,7 @@ This project is divided into several modules, each focusing on different aspects
 
  
  
- **Install the required packages:**
-   ```bash
-   pip install -r requirements.txt
-   ```
+ 
 
 ### Usage
 
