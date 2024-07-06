@@ -43,7 +43,7 @@ This project is divided into several modules, each focusing on different aspects
    ```bash
    git clone https://github.com/yourusername/Applied-Data-Science-Capstone-Project.git
    ```
-2. **Navigate to the project directory:**
+ **Navigate to the project directory:**
    ```bash
    cd Applied-Data-Science-Capstone-Project
    ```
