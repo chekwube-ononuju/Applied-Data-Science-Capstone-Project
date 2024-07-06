@@ -40,10 +40,7 @@ This project is divided into several modules, each focusing on different aspects
 
 
  
- **Navigate to the project directory:**
-   ```bash
-   cd Applied-Data-Science-Capstone-Project
-   ```
+ 
  **Install the required packages:**
    ```bash
    pip install -r requirements.txt
