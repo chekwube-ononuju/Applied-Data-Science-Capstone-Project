@@ -67,7 +67,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - IBM Data Science Professional Certificate
 - SpaceX for providing the data
-
----
-
-By completing this project, you will gain hands-on experience with data science tools and methodologies, enabling you to tackle real-world business problems effectively. Happy learning!
