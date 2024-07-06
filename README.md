@@ -39,10 +39,7 @@ This project is divided into several modules, each focusing on different aspects
 - Deploy the model and make it accessible for real-time predictions.
 
 
- **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/Applied-Data-Science-Capstone-Project.git
-   ```
+ 
  **Navigate to the project directory:**
    ```bash
    cd Applied-Data-Science-Capstone-Project
