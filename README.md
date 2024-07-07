@@ -66,4 +66,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 - IBM Data Science Professional Certificate
-- SpaceX for providing the dat
+- SpaceX for providing the data
